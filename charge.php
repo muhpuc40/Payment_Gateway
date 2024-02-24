@@ -7,7 +7,7 @@
     $token = $_POST['stripeToken'];
     $Token_Type = $_POST['stripeTokenType'];
     $Email = $_POST['stripeEmail'];
-
+    //echo $token ;
     $charge = \Stripe\Charge :: create([
             'source' => $token, 
             'amount' => 5000, 
@@ -21,3 +21,5 @@
     $id  = $charge['id'];
 
 ?>
+
+
