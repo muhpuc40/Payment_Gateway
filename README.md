@@ -22,5 +22,5 @@ Step 5 :
 </div>
 Step 6 : 
 <div style="position: relative;">
-     <img src="step_6.png" alt="alt-text" style="width:70%">
+     <img src="step_6.jpg" alt="alt-text" style="width:70%">
 </div>
