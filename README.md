@@ -2,7 +2,7 @@
 ## Screenshots
 Step 1 : Pay With Card
 <div style="position: relative;">
-     <img src="step_1.png" alt="alt-text" style="width:100%">
+     <img src="step_1.png" alt="alt-text" style="width:110%">
 </div>
 Step 2 : Provide Your details
 <div style="position: relative;">
